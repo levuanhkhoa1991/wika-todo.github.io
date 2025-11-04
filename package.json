@@ -35,7 +35,7 @@
   },
   "overrides": {
     "prismjs": "^1.30.0",
-    "refractor": "^4.8.1",
+    "refractor": "^2.15.0",
     "react-syntax-highlighter": "^15.6.1",
     "@copilotkit/react-ui": {
       "react": "$react",
